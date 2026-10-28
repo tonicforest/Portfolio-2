@@ -1,9 +1,9 @@
 ![Logo](/images/pf.png)
 
 
-# Namaami Portfolio Showcase 💻
+# Theós Portfolio Showcase 💻
 
-Welcome to **Namaami's Portfolio Showcase**!  
+Welcome to **Theós's Portfolio Showcase**!  
 This project is a modern **portfolio website** to display projects, skills, and work samples using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and designed to highlight your projects with videos, animations, and smooth navigation.
 
@@ -11,7 +11,7 @@ It is fully **responsive**, interactive, and designed to highlight your projects
 
 ## 🚀 Live Demo
 
-You can view the live, [deployed version of this project here:](https://namaami.github.io/Portfolio-2/)
+You can view the live, [deployed version of this project here:](https://tonicforest.github.io/Portfolio-2/)
 
 ## 🌟 Features
 
@@ -41,9 +41,9 @@ You can view the live, [deployed version of this project here:](https://namaami.
 - Email: namaamimishra11@gmail.com   
 - Location: Lucknow, India  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/namaami-mishra-619831295/)  
-- GitHub: [GitHub](https://github.com/Namaami)  
-- Instagram: [Instagram](https://www.instagram.com/namaami__x)
+- GitHub: [GitHub](https://github.com/tonicforest)  
+- Instagram: [Instagram](https://www.instagram.com/tonicforest)
 
 ---
 
-Made with ❤️ by **Namaami Mishra**
+Made with ❤️ by **tonicforest**
